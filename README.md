@@ -23,7 +23,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-[img]http://i.imgur.com/NftyUvZh.gif[/img]
+
+
+
+https://user-images.githubusercontent.com/93145681/216873436-b599428d-b22f-48b9-b641-21252bdf6560.mp4
+
 
 ## Notes
 

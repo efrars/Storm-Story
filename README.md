@@ -23,7 +23,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/vZ8Bwix' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe class="imgur-embed" width="100%" height="784" frameborder="0" src="https://i.imgur.com/vZ8Bwix.gifv#embed"></iframe>
 
 
 

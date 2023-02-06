@@ -23,7 +23,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/vZ8Bwix" data-context="false" ><a href="//imgur.com/a/vZ8Bwix"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/NftyUvZ">
+
 ## Notes
 
 Describe any challenges encountered while building the app.
